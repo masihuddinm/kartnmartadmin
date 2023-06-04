@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ae517b9598ecf8e90b5c0ae838b0a7d8",
+  "assets/AssetManifest.json": "01b05d61bcb8b9f7d15e635eab46a317",
 "assets/assets/fonts/muli/Muli-Bold.ttf": "1e36ee6d50c037b1bb4bdd3effa7a28e",
 "assets/assets/fonts/muli/Muli-Light.ttf": "6b667c3dbc3d4df6dd096ad18296704d",
 "assets/assets/fonts/muli/Muli.ttf": "df7330254513d2fa2f4c1e9ee98cc6c6",
@@ -45,7 +45,7 @@ const RESOURCES = {
 "assets/assets/images/header.jpg": "83299973e8e7c870e04db9a682e8616e",
 "assets/assets/images/Logo-512.jpeg": "2ce86e240619a0e1738a1b3fb7bbf92b",
 "assets/assets/images/logo-512.jpg": "f60e914f906d64c4882b4bfd3ae4ffa3",
-"assets/assets/images/Medicool_bg.jpg": "6ca8cd98fba2550adde05a22d843663a",
+"assets/assets/images/Medicool_bg.jpg": "50f6237f4b77d46ddc697f5d479c20c1",
 "assets/assets/images/Medicool_bg1.JPG": "4902649a531d12747a43306d634ec3cf",
 "assets/assets/images/Medicool_bgdd.jpeg": "c9e9d00eaae94abafe2445f35d5c99e9",
 "assets/assets/images/Medicool_bg_live.JPG": "2b68ee85835d2bc84c4ae48d3805fbce",
@@ -56,6 +56,7 @@ const RESOURCES = {
 "assets/assets/images/Pattern%2520Success.png": "c46441a1f4f1d8913d779178aebc9bfd",
 "assets/assets/images/profile_image.png": "6f6bbb16aec97391aefe120ec5a4e6a2",
 "assets/assets/images/success.png": "f80df756b315fbb72670a78e82095c3c",
+"assets/assets/images/WhatsApp%2520Image%25202023-06-03%2520at%25209.48.08%2520AM.jpeg": "33d1b422d28001500b34aa241761dbfd",
 "assets/FontManifest.json": "85fdf4cd06a98e90ca995a4052492411",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/NOTICES": "205c49abf607e54fd8020d39face7558",
@@ -87,9 +88,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "14794d846abb679a3be867e4d0521b70",
-"/": "14794d846abb679a3be867e4d0521b70",
-"main.dart.js": "86a90a4dbebf34e3ca88a06f02e36610",
+"index.html": "0cce941cc5218ebb41a573c8130e8d16",
+"/": "0cce941cc5218ebb41a573c8130e8d16",
+"main.dart.js": "aa3cd809e173bfd8c9af0df991955d63",
 "manifest.json": "8680e9d796f99fb61aa2331585f0ca40",
 "version.json": "2b8f186b35abd62c241ffc121d76a1da"
 };
